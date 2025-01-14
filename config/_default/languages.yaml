@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -17,6 +17,24 @@ zh:
     description: Site description in Chinese...
   menu:
     main:
-      - name: 关于
-        url: '#about'
-        weight: 1
+      - name: 主页
+        url: /
+        weight: 10
+      - name: 论文
+        url: /#papers
+        weight: 11
+      - name: 演讲
+        url: /#talks
+        weight: 12
+      - name: 新闻
+        url: /#news
+        weight: 13
+      - name: 游历
+        url: experience/
+        weight: 20
+      - name: 项目
+        url: projects/
+        weight: 30
+      - name: 课程
+        url: teaching/
+        weight: 40
