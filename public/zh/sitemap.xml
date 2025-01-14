@@ -2,536 +2,536 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh/event/example/</loc>
+    <loc>https://lyy010714.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/example/"
+                href="https://lyy010714.github.io/en/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/event/example/"
+                href="https://lyy010714.github.io/event/example/"
                 />
   </url><url>
-    <loc>https://example.com/zh/event/</loc>
+    <loc>https://lyy010714.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/"
+                href="https://lyy010714.github.io/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/event/"
+                href="https://lyy010714.github.io/event/"
                 />
   </url><url>
-    <loc>https://example.com/zh/projects/</loc>
+    <loc>https://lyy010714.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/projects/"
+                href="https://lyy010714.github.io/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/projects/"
+                href="https://lyy010714.github.io/projects/"
                 />
   </url><url>
-    <loc>https://example.com/zh/post/get-started/</loc>
+    <loc>https://lyy010714.github.io/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/get-started/"
+                href="https://lyy010714.github.io/en/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/post/get-started/"
+                href="https://lyy010714.github.io/post/get-started/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/academic/</loc>
+    <loc>https://lyy010714.github.io/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/academic/"
+                href="https://lyy010714.github.io/en/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/academic/"
+                href="https://lyy010714.github.io/tags/academic/"
                 />
   </url><url>
-    <loc>https://example.com/zh/post/</loc>
+    <loc>https://lyy010714.github.io/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/"
+                href="https://lyy010714.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/post/"
+                href="https://lyy010714.github.io/post/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/hugo-blox/</loc>
+    <loc>https://lyy010714.github.io/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/hugo-blox/"
+                href="https://lyy010714.github.io/en/tags/hugo-blox/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/hugo-blox/"
+                href="https://lyy010714.github.io/tags/hugo-blox/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/markdown/</loc>
+    <loc>https://lyy010714.github.io/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/markdown/"
+                href="https://lyy010714.github.io/en/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/markdown/"
+                href="https://lyy010714.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/</loc>
+    <loc>https://lyy010714.github.io/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://lyy010714.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/"
+                href="https://lyy010714.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/hugo/</loc>
+    <loc>https://lyy010714.github.io/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/hugo/"
+                href="https://lyy010714.github.io/en/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/hugo/"
+                href="https://lyy010714.github.io/tags/hugo/"
                 />
   </url><url>
-    <loc>https://example.com/zh/project/pandas/</loc>
+    <loc>https://lyy010714.github.io/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/pandas/"
+                href="https://lyy010714.github.io/en/project/pandas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/project/pandas/"
+                href="https://lyy010714.github.io/project/pandas/"
                 />
   </url><url>
-    <loc>https://example.com/zh/project/</loc>
+    <loc>https://lyy010714.github.io/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/"
+                href="https://lyy010714.github.io/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/project/"
+                href="https://lyy010714.github.io/project/"
                 />
   </url><url>
-    <loc>https://example.com/zh/project/pytorch/</loc>
+    <loc>https://lyy010714.github.io/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/pytorch/"
+                href="https://lyy010714.github.io/en/project/pytorch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/project/pytorch/"
+                href="https://lyy010714.github.io/project/pytorch/"
                 />
   </url><url>
-    <loc>https://example.com/zh/project/scikit/</loc>
+    <loc>https://lyy010714.github.io/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/scikit/"
+                href="https://lyy010714.github.io/en/project/scikit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/project/scikit/"
+                href="https://lyy010714.github.io/project/scikit/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/second-brain/</loc>
+    <loc>https://lyy010714.github.io/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/second-brain/"
+                href="https://lyy010714.github.io/en/tags/second-brain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/second-brain/"
+                href="https://lyy010714.github.io/tags/second-brain/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/wowchemy/</loc>
+    <loc>https://lyy010714.github.io/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/wowchemy/"
+                href="https://lyy010714.github.io/en/tags/wowchemy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/wowchemy/"
+                href="https://lyy010714.github.io/tags/wowchemy/"
                 />
   </url><url>
-    <loc>https://example.com/zh/post/second-brain/</loc>
+    <loc>https://lyy010714.github.io/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/second-brain/"
+                href="https://lyy010714.github.io/en/post/second-brain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/post/second-brain/"
+                href="https://lyy010714.github.io/post/second-brain/"
                 />
   </url><url>
-    <loc>https://example.com/zh/post/data-visualization/</loc>
+    <loc>https://lyy010714.github.io/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/data-visualization/"
+                href="https://lyy010714.github.io/en/post/data-visualization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/post/data-visualization/"
+                href="https://lyy010714.github.io/post/data-visualization/"
                 />
   </url><url>
-    <loc>https://example.com/zh/post/teach-courses/</loc>
+    <loc>https://lyy010714.github.io/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/teach-courses/"
+                href="https://lyy010714.github.io/en/post/teach-courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/post/teach-courses/"
+                href="https://lyy010714.github.io/post/teach-courses/"
                 />
   </url><url>
-    <loc>https://example.com/zh/experience/</loc>
+    <loc>https://lyy010714.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/experience/"
+                href="https://lyy010714.github.io/en/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/experience/"
+                href="https://lyy010714.github.io/experience/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/hugo-blox-builder/</loc>
+    <loc>https://lyy010714.github.io/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/hugo-blox-builder/"
+                href="https://lyy010714.github.io/en/tags/hugo-blox-builder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/hugo-blox-builder/"
+                href="https://lyy010714.github.io/tags/hugo-blox-builder/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/javascript/</loc>
+    <loc>https://lyy010714.github.io/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/javascript/"
+                href="https://lyy010714.github.io/en/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/javascript/"
+                href="https://lyy010714.github.io/tags/javascript/"
                 />
   </url><url>
-    <loc>https://example.com/zh/teaching/js/</loc>
+    <loc>https://lyy010714.github.io/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/teaching/js/"
+                href="https://lyy010714.github.io/en/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/teaching/js/"
+                href="https://lyy010714.github.io/teaching/js/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/python/</loc>
+    <loc>https://lyy010714.github.io/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/python/"
+                href="https://lyy010714.github.io/en/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/python/"
+                href="https://lyy010714.github.io/tags/python/"
                 />
   </url><url>
-    <loc>https://example.com/zh/teaching/</loc>
+    <loc>https://lyy010714.github.io/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/teaching/"
+                href="https://lyy010714.github.io/en/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/teaching/"
+                href="https://lyy010714.github.io/teaching/"
                 />
   </url><url>
-    <loc>https://example.com/zh/teaching/python/</loc>
+    <loc>https://lyy010714.github.io/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/teaching/python/"
+                href="https://lyy010714.github.io/en/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/teaching/python/"
+                href="https://lyy010714.github.io/teaching/python/"
                 />
   </url><url>
-    <loc>https://example.com/zh/post/project-management/</loc>
+    <loc>https://lyy010714.github.io/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/project-management/"
+                href="https://lyy010714.github.io/en/post/project-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/post/project-management/"
+                href="https://lyy010714.github.io/post/project-management/"
                 />
   </url><url>
-    <loc>https://example.com/zh/</loc>
+    <loc>https://lyy010714.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://lyy010714.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/"
+                href="https://lyy010714.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication/preprint/</loc>
+    <loc>https://lyy010714.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/preprint/"
+                href="https://lyy010714.github.io/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication/preprint/"
+                href="https://lyy010714.github.io/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication_types/article/</loc>
+    <loc>https://lyy010714.github.io/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/article/"
+                href="https://lyy010714.github.io/en/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication_types/article/"
+                href="https://lyy010714.github.io/publication_types/article/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/large-language-models/</loc>
+    <loc>https://lyy010714.github.io/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/large-language-models/"
+                href="https://lyy010714.github.io/en/tags/large-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/large-language-models/"
+                href="https://lyy010714.github.io/tags/large-language-models/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication_types/</loc>
+    <loc>https://lyy010714.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/"
+                href="https://lyy010714.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication_types/"
+                href="https://lyy010714.github.io/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication/</loc>
+    <loc>https://lyy010714.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/"
+                href="https://lyy010714.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication/"
+                href="https://lyy010714.github.io/publication/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication/journal-article/</loc>
+    <loc>https://lyy010714.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/journal-article/"
+                href="https://lyy010714.github.io/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication/journal-article/"
+                href="https://lyy010714.github.io/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication_types/article-journal/</loc>
+    <loc>https://lyy010714.github.io/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/article-journal/"
+                href="https://lyy010714.github.io/en/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication_types/article-journal/"
+                href="https://lyy010714.github.io/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>https://example.com/zh/tags/source-themes/</loc>
+    <loc>https://lyy010714.github.io/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/source-themes/"
+                href="https://lyy010714.github.io/en/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/tags/source-themes/"
+                href="https://lyy010714.github.io/tags/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication/conference-paper/</loc>
+    <loc>https://lyy010714.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/conference-paper/"
+                href="https://lyy010714.github.io/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication/conference-paper/"
+                href="https://lyy010714.github.io/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/zh/publication_types/paper-conference/</loc>
+    <loc>https://lyy010714.github.io/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/paper-conference/"
+                href="https://lyy010714.github.io/en/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://example.com/zh/publication_types/paper-conference/"
+                href="https://lyy010714.github.io/publication_types/paper-conference/"
                 />
   </url>
 </urlset>
